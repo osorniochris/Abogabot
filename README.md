@@ -32,3 +32,7 @@ El público objetivo cuenta con una cuenta bancaria y tiene ingresos mensuales f
 ## Wireframe UX
 
 También llamado plan de pantalla por algunos profesionales, el wireframe es un prototipo de página web o de una aplicación, que sirve como una guía para auxiliar para la diagramación de una página [[2]](https://rockcontent.com/es/blog/wireframe/).
+
+## UI
+
+Definición de User Interface para Abogabot basada en los Wireframes creados.
